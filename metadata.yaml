@@ -1,0 +1,32 @@
+_repo: The-Character-Of-A-Priest_38377
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carlile, Richard
+    aliases:
+    - Philanthropos
+    - Carlisle, Richard
+    - Deist
+    birthdate: 1790
+    deathdate: 1843
+    gutenberg_agent_id: '39431'
+    url: http://www.gutenberg.org/2009/agents/39431
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Carlile
+description: ''
+gutenberg_issued: '2011-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Priests -- Controversial literature'
+- !lcsh 'Priesthood -- Controversial literature'
+title: The Character of a Priest
+url: http://www.gutenberg.org/ebooks/38377
